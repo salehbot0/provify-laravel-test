@@ -1,4 +1,4 @@
-PROVIFY-RELEASE-MARKER: B-BROKEN
+PROVIFY-RELEASE-MARKER: C-WHILE-PAUSED
 
 
 require __DIR__.'/../vendor/autoload.php';
