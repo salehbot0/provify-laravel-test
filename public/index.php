@@ -1,3 +1,4 @@
+PROVIFY-RELEASE-MARKER: A-GOOD
 
 
 require __DIR__.'/../vendor/autoload.php';
