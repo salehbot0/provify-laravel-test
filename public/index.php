@@ -1,4 +1,4 @@
-PROVIFY-RELEASE-MARKER: D-WHILE-OFF
+PROVIFY-RELEASE-MARKER: E-OFF-FOR-REAL
 
 
 require __DIR__.'/../vendor/autoload.php';
