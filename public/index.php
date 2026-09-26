@@ -1,4 +1,4 @@
-PROVIFY-RELEASE-MARKER: E-OFF-FOR-REAL
+PROVIFY-RELEASE-MARKER: F-AUTODEPLOY-BACK-ON
 
 
 require __DIR__.'/../vendor/autoload.php';
